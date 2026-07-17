@@ -1,2 +1,2 @@
 # hello-github-0711
-test
+コーヒー美味しかった
